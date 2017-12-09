@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mclilcello.github.io" resolutions="1x" timestamp="1512851639558">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sig.ps" resolutions="1x" timestamp="1512852015186">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="166392248" ref="index"/>
+    <file name="index.css" crc="353759105" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,9 +12,9 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank_semnatura_email.png" crc="4098403566" seo="true" ref="index">
+    <file name="semnatura_email.png" crc="4066641747" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4092927578" seo="true" mt="1512851209635" redirect="true"/>
+  <file name="index.html" crc="343987076" seo="true" mt="1512852006868" redirect="true"/>
 </manifest>
